@@ -1,0 +1,2 @@
+Here is a file created with Sublime Text from Gitbash.
+And now I have added to it in VS Code!
